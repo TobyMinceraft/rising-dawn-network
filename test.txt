@@ -1,1 +1,2 @@
 This is just a test to see if Discord messages work
+This is another test to see if messages will work (with URL shortening turned off)
